@@ -26,7 +26,7 @@ Finally go through the [Learn C](https://www.learn-c.org/) tutorial.
 
 Now start playing with some Arduino code! Check out the examples [here](https://www.arduino.cc/en/Tutorial/BuiltInExamples). Begin with the first one, and once you understand how it works feel free to move to something more complicated. Your fantasy is the limit!
 
-Yo can use the Arduino parts you find around campus (just put everything back where you’ve found it once you’re done), or the [Arduino Web Editor](https://create.arduino.cc/) to simulate your code.
+First build your code on the [Arduino Web Editor](https://create.arduino.cc/) to simulate if it works properly (you’ll need to create an account). Then, if you want to see your machine in flesh and bones, ask an instructor to show where we keep Arduino parts around campus (just put everything back where it was once you’re done).
 
 ## Getting started
 
