@@ -4,21 +4,21 @@ Today you’ll become familiar with 3 new programming languages: Ruby, Python, a
 
 Learning other programming languages is fun, and the more languages you learn, the easier it gets to learn new ones. It’s even easier than with human languages, since programming languages are more similar to each other.
 
-Every section of this exercise is composed of a tutorial and some practice.
+Every section of this exercise is composed of a tutorial and some practice. It’s a good idea to go through the tutorial individually, and then sync with your pair to do the coding part together.
 
-Divide your time so that you spend 3 hours on each language, of which max 90 minutes on the tutorial part. By the way, it’s probably a good idea to do the tutorial by yourself, and the exercise in pair.
+Before starting, check how many hours you have available in total for this exercise. Then divide them in 3 equal sections, one for each language, and set timers making sure you switch to the new section when the time comes.
 
 ### Ruby
 
-How far you can get in the [Try Ruby](http://tryruby.org/levels/1/challenges/0) tutorial?
+Complete the [Learn Ruby](https://www.learnrubyonline.org/) tutorial.
 
-Once you’re done, re-implement the first half of [Underline](https://github.com/codeworksbcn/pre-course/tree/master/underline) using Ruby.
+Once you’re done, solve the [Highest Word Count](https://github.com/codeworksbcn/tp-highest-word-count) problem using Ruby. As a tip, notice that you don’t need [Lodash](https://lodash.com/). Can you see why?
 
 ### Python
 
 Read the [Learn Python](https://www.learnpython.org/) tutorial.
 
-Ok, now you’re ready to complete the missing part of [Underline](https://github.com/codeworksbcn/pre-course/tree/master/underline) in Python.
+Ok, now solve the [Evented Thing](https://github.com/codeworksbcn/tp-evented-thing) problem using Python.
 
 ### C
 
