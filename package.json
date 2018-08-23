@@ -1,11 +1,11 @@
 {
   "name": "codeworks-the-polyglot-exercise",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Codeworks exercise to train students",
   "main": "index.js",
   "scripts": {
-    "precommit": "gulp lint",
-    "test": "mocha"
+    "test": "mocha",
+    "precommit": "gulp lint"
   },
   "repository": {
     "type": "git",
@@ -27,7 +27,8 @@
     "gulp-eslint": "^5.0.0",
     "gulp-load-plugins": "^1.5.0",
     "gulp-replace": "^1.0.0",
-    "husky": "^0.14.3"
+    "husky": "0.14.3",
+    "mocha": "^5.2.0"
   },
   "config": {
     "commitizen": {
