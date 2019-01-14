@@ -28,7 +28,7 @@ gulp.task('lint', function () {
 gulp.task('remove-solutions', ['lint'], function () {
   del.sync('dist');
   return gulp.src(addDefSrcIgnore(['**']), {dot: true})
-    .pipe($.replace(/^\s*(\/\/|<!--|\/\*)\s*REMOVE-START[\s\S]*?REMOVE-END\s*(\*\/|-->)?\s*$/gm, ''))
+    .pipe($.replace(/^\s*(\/\/|<!--|\/\*|#)\s*REMOVE-START[\s\S]*?REMOVE-END\s*(\*\/|-->)?\s*$/gm, ''))
     .pipe(gulp.dest('dist'));
 });
 
@@ -44,6 +44,7 @@ gulp.task('dist', ['remove-solutions'], function () {
   const npmConfig = require('./package.json');
   npmConfig.name = removeMaster(npmConfig.name);
   npmConfig.repository.url = removeMaster(npmConfig.repository.url);
+  npmConfig.scripts['test'] = 'echo no tests specified yet';
   npmConfig.scripts['precommit'] = 'gulp lint';
   fs.writeFileSync('dist/package.json', JSON.stringify(npmConfig, null, 2));
 
