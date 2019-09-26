@@ -12,13 +12,13 @@ Before starting, check how many hours you have available in total for this exerc
 
 Complete the [Learn Ruby](https://www.learnrubyonline.org/) tutorial.
 
-Once you’re done, solve the [Highest Word Count](https://github.com/codeworksbcn/tp-highest-word-count) problem using Ruby. As a tip, notice that you don’t need [Lodash](https://lodash.com/). Can you see why?
+Once you’re done, solve the [Highest Word Count](https://github.com/codeworks/tp-highest-word-count) problem using Ruby. As a tip, notice that you don’t need [Lodash](https://lodash.com/). Can you see why?
 
 ### Python
 
 Read the [Learn Python](https://www.learnpython.org/) tutorial.
 
-Ok, now solve the [Evented Thing](https://github.com/codeworksbcn/tp-evented-thing) problem using Python.
+Ok, now solve the [Evented Thing](https://github.com/codeworks/tp-evented-thing) problem using Python.
 
 ### C
 

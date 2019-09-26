@@ -1,6 +1,6 @@
 {
   "name": "codeworks-the-polyglot-exercise",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A Codeworks exercise to train students",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "codeworksbcn/the-polyglot-exercise"
+    "url": "codeworks/the-polyglot-exercise"
   },
   "author": "Codeworks",
   "license": "UNLICENSED",
