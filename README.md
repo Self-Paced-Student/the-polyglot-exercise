@@ -30,7 +30,9 @@ Use the [Arduino Web Editor](https://create.arduino.cc/) to build your code and 
 
 ## Getting started
 
-Edit the files you find in the `/code` folder, using your code editor.
+- Install Ruby (on Mac use `brew install ruby`, on Windows use [RubyInstaller](https://rubyinstaller.org/), on Linux use your system’s package manager).
+- Install Python (on Mac use `brew install python`, on Windows use the [latest stable release](https://www.python.org/downloads/windows/), on Linux use your system's package manager).
+- Open your code editor and start working on the files in the `/code` folder of this repo.
 
 ## Extra credits
 
