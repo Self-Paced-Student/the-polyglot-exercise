@@ -26,13 +26,11 @@ Finally go through the [Learn C](https://www.learn-c.org/) tutorial.
 
 Now start playing with some Arduino code! Check out the examples [here](https://www.arduino.cc/en/Tutorial/BuiltInExamples). Begin with the first one, and once you understand how it works feel free to move to something more complicated. Your fantasy is the limit!
 
-First build your code on the [Arduino Web Editor](https://create.arduino.cc/) to simulate if it works properly (you’ll need to create an account). Then, if you want to see your machine in flesh and bones, ask an instructor to show where we keep Arduino parts around campus (just put everything back where it was once you’re done).
+Use the [Arduino Web Editor](https://create.arduino.cc/) to build your code and simulate the physical device (you’ll need to create an account).
 
 ## Getting started
 
-Feel free to use your usual code editor for the exercises, with the files you find in the `/code` folder.
-
-To run your code on Arduino you’ll then need to compile the file from the command line, or by copy / pasting its content in the Arduino IDE.
+Edit the files you find in the `/code` folder, using your code editor.
 
 ## Extra credits
 
