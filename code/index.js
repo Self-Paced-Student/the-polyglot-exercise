@@ -1,1 +1,1 @@
-console.log('Just for the commit');
+// another dummy commit
